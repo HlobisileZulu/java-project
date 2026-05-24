@@ -63,9 +63,5 @@ public class DemoTest {
         assertTrue(output.toString().contains("This is not a triangle."));
     }
 }
-git add src/test/java/DemoTest.java
-3. Create a commit
 
-Run:
 
-git commit -m "Completed IntroToUnitTesting assignment"
