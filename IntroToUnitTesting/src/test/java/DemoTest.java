@@ -65,3 +65,8 @@ public class DemoTest {
 }
 
 
+git commit -m "Completed IntroToUnitTesting assignment"
+2. Pull GitHub changes
+git pull origin main --rebase
+3. Push your work
+git push origin main
