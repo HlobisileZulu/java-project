@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DemoTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-05-24T21:11:34" hostname="codespaces-2ebb28" time="0.016">
+  <properties/>
+  <testcase name="testValidTriangle" classname="DemoTest" time="0.001"/>
+  <testcase name="testMainNotTriangle" classname="DemoTest" time="0.01"/>
+  <testcase name="testMainTriangle" classname="DemoTest" time="0.002"/>
+  <testcase name="testEquilateralTriangle" classname="DemoTest" time="0.0"/>
+  <testcase name="testInvalidTriangleTooSmall" classname="DemoTest" time="0.0"/>
+  <testcase name="testZeroSide" classname="DemoTest" time="0.0"/>
+  <testcase name="testNegativeSide" classname="DemoTest" time="0.0"/>
+  <testcase name="testInvalidTriangleEqualBoundary" classname="DemoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
